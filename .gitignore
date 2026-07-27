@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environment Variables
+.env
+
+# Machine Learning Models
+# *.pkl
+
+# Node.js
+smart-tourism-ui/node_modules/
+smart-tourism-ui/dist/
+
+# VS Code
+.vscode/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+smart-tourism-ai/data/pedestrian-counting-system-monthly-counts-per-hour.csv
